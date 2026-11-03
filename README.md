@@ -36,7 +36,7 @@
 ### 📊 Statistiques & Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clenit&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clenit&layout=compact&theme=matrix&hide_border=true" width="48%" />
 </div>
 
