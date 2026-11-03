@@ -43,12 +43,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clenit&theme=matrix&hide_border=true" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=clenit&theme=matrix&hide_border=true" width="97%" />
 </div>
 
 ---
 
 ### 📬 Me contacter
 
-  <a href="59clementleroy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="left">
+  <a href="mailto:59clementleroy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
