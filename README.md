@@ -1,61 +1,65 @@
-# ⚡ [Ton Prénom / Pseudo]
+# ⚡ Leroy Clément
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vcenter=true&width=450&lines=D%C3%A9veloppeur+C%2B%2B+%26+Web;Admin+%26+Dev+FiveM;Tech+%26+Drone+Tuning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=%C3%89tudiant+BTS+CIEL+%7C+Cyber+%26+R%C3%A9seaux;Dev+C%2B%2B%2C+Python+%26+Linux;IoT%2C+Embarqu%C3%A9+%26+Syst%C3%A8mes" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-brightgreen?style=for-the-badge&logo=github" alt="Status" />
-  <img src="https://img.shields.io/badge/Focus-C%2B%2B%20%7C%20FiveM-7AA2F7?style=for-the-badge&logo=cplusplus" alt="Focus" />
+  <img src="https://img.shields.io/badge/BTS-CIEL-00FF66?style=for-the-badge&logo=gnu-bash&logoColor=black" alt="BTS CIEL" />
+  <img src="https://img.shields.io/badge/Focus-Cyber_%26_Network-0078D6?style=for-the-badge&logo=cisco&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/System-Linux_Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="OS" />
 </p>
 
 ---
 
-### 🚀 À propos de moi
+### 🛡️ À propos de moi
 
-- 🎓 Passionné par le développement informatique, l'architecture logicielle et la physique/maths.
-- 🛠️ Co-développeur & administrateur d'un serveur **FiveM** (UI/NUI sur-mesure, scripts custom).
-- 💻 Stack principale : **C++**, **Lua**, **JavaScript / HTML / CSS**.
-- 🚁 En dehors du code : configuration/tuning FPV sous **Betaflight** & modélisme.
+- 🎓 Étudiant en **BTS CIEL** (*Cybersécurité, Informatique et réseaux, Électronique*).
+- 🌐 Passionné par l'**administration réseau**, la **sécurité des systèmes** et le **développement bas niveau**.
+- 🛠️ Projets actuels : Microcontrôleurs (ESP32/Arduino), scripts d'automation réseau et développement C/C++.
+- 🚩 Entraînement Cyber : **Root-Me** / **TryHackMe** & analyse de trames avec Wireshark.
 
 ---
 
-### 🛠️ Technologies & Outils
+### 🧰 Tech Stack & Environnement CIEL
 
-**Langages & Web**
+**Réseaux & Cybersécurité**
+![Cisco](https://img.shields.io/badge/cisco-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Développement & Scripting**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Environnement & Outils**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Électronique & IoT**
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white)
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Statistiques & Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=matrix&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=matrix&hide_border=true" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_GITHUB&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_PSEUDO_GITHUB&theme=matrix&hide_border=true" width="97%" />
 </div>
 
 ---
 
-### 💬 Me contacter
+### 📬 Me contacter
 
-<p align="left">
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="59clementleroy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
