@@ -1,7 +1,7 @@
 # ⚡ Leroy Clément
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=%C3%89tudiant+BTS+CIEL+%7C+Cyber+%26+R%C3%A9seaux;Dev+C%2B%2B%2C+Python+%26+Linux;IoT%2C+Embarqu%C3%A9+%26+Syst%C3%A8mes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=%C3%89tudiant+BTS+CIEL+%7C+Cyber+%26+R%C3%A9seaux;Dev+C%2B%2B%2C+Python+%26+Linux" alt="Typing SVG" />
 </div>
 
 <p align="center">
